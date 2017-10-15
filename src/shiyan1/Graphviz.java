@@ -6,8 +6,6 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.InputStreamReader;
-/*/rrrrrrrrrrrrrrrrrrrrrrrrrrr
-/eeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
 
 public class Graphviz{
     /**
@@ -334,3 +332,7 @@ public class Graphviz{
     }
 
 } // end of class GraphViz
+
+/*/rrrrrrrrrrrrrrrrrrrrrrrrrrr
+/eeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
+
