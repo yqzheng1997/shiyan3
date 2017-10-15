@@ -6,7 +6,8 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.BufferedWriter;
 import java.io.IOException;
-
+/*/rrrrrrrrrrrrrrrrrrrrrrrrrrr
+/eeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
 class graph{
 	private static int N = 500;
 	private int wordnum;//µ¥´Ê¸öÊý
