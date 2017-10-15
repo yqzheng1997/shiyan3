@@ -1,5 +1,3 @@
-this word
-important development trends of this word
 
 
 
@@ -9,5 +7,5 @@ important development trends of this word
 
 
 
-/rrrrrrrrrrrrrrrrrrrrrrrrrrr
+/rrrrrrrrrrrrrrrrrrrr
 /eeeeeeeeeeeeeeeeeeeeeeeeeeeee
