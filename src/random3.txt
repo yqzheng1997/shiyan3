@@ -1,5 +1,6 @@
 
 
+<<<<<<< HEAD
 
 
 
@@ -16,3 +17,7 @@
 
 
 
+=======
+£¿aaaaaaaaaaaaa
+@ssssssssssssssssssssssssssss
+>>>>>>> C4

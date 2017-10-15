@@ -7,6 +7,12 @@ import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.InputStreamReader;
 
+<<<<<<< HEAD
+=======
+/*£¿aaaaaaaaaaaaaaa
+@ssssssssssssssssssssssssssss*/
+
+>>>>>>> C4
 public class Graphviz{
     /**
      * Detects the client's operating system.

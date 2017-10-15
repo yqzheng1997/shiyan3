@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 
 
@@ -9,3 +10,7 @@
 
 /rrrrrrrrrrrrrrrrrrrr
 /eeeeeeeeeeeeeeeeeeeeeeeeeeeee
+=======
+£¿aaaaaaaaaaaaaaaaa
+@ssssssssssssssssssssssssssss
+>>>>>>> C4

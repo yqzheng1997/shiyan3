@@ -6,6 +6,8 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.BufferedWriter;
 import java.io.IOException;
+/*aaaaaaaaaaaaa
+@ssssssssssssssssssssssssssss*/
 
 class graph{
 	private static int N = 500;
