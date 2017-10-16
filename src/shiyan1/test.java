@@ -6,7 +6,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.BufferedWriter;
 import java.io.IOException;
-
+a
 class graph{
 	private static int N = 500;
 	private int wordnum;//µ¥´Ê¸öÊý
