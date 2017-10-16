@@ -3,10 +3,7 @@ import java.util.Scanner;
 import java.io .FileInputStream;
 import java.util.Random;
 import java.io.File;
-import java.io.FileWriter;
-import java.io.BufferedWriter;
-import java.io.IOException;
-a
+
 class graph{
 	private static int N = 500;
 	private int wordnum;//单词个数
@@ -405,6 +402,7 @@ public class test {
 		System.out.println("请输入要读取的文件路径");
 		String filepath,word1,word2,input;
 		String str;
+		int k;
 		filepath = scan.nextLine();
 		
 		//cd D:\java-learn\shiyan1\src
