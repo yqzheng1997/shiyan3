@@ -7,12 +7,6 @@ import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.InputStreamReader;
 
-<<<<<<< HEAD
-=======
-/*£¿aaaaaaaaaaaaaaa
-@ssssssssssssssssssssssssssss*/
-
->>>>>>> C4
 public class Graphviz{
     /**
      * Detects the client's operating system.
@@ -338,7 +332,3 @@ public class Graphviz{
     }
 
 } // end of class GraphViz
-
-/*/rrrrrrrrrrrrrrrrrr
-/eeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
-
